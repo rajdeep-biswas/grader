@@ -1,0 +1,28 @@
+day 1
+
+https://medium.com/@adriensieg/text-similarities-da019229c894
+https://medium.com/better-programming/the-beginners-guide-to-similarity-matching-using-spacy-782fc2922f7c
+https://github.com/explosion/spaCy/issues/4577
+
+https://spacy.io/models/en
+https://spacy.io/universe/project/spacy_grammar
+https://spacy.io/api/token
+https://spacy.io/usage/linguistic-features
+https://spacy.io/usage/vectors-similarity
+
+https://github.com/MartinoMensio/spacy-universal-sentence-encoder-tfhub
+
+https://stackoverflow.com/questions/52113939/spacy-strange-similarity-between-two-sentences
+https://stackoverflow.com/questions/53453559/similarity-in-spacy
+
+https://nlp.town/blog/sentence-similarity/
+https://datascience.stackexchange.com/questions/25053/best-practical-algorithm-for-sentence-similarity
+https://medium.com/@Intellica.AI/comparison-of-different-word-embeddings-on-text-similarity-a-use-case-in-nlp-e83e08469c1c
+http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/
+
+https://github.com/facebookresearch/InferSent
+	https://github.com/facebookresearch/InferSent/blob/master/demo.ipynb
+
+https://github.com/llSourcell/word_vectors_game_of_thrones-LIVE
+	https://github.com/llSourcell/word_vectors_game_of_thrones-LIVE/commits?author=llSourcell
+	https://github.com/llSourcell/word_vectors_game_of_thrones-LIVE/blob/master/Thrones2Vec.ipynb
